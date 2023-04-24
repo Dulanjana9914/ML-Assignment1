@@ -4,7 +4,7 @@ Apply four distinct supervised learning algorithms on a real world dataset and d
 ## Group Details
 
 **Member Details :** 
-| Name | Student ID | Username |
+| Member | Student ID | Name |
 |--|--|--|
 | Member 01 | IT20265892 | H.A.D.Lakshan  |
 | Member 02 | IT20140120 | P.P. Yasantha Mihiran |
